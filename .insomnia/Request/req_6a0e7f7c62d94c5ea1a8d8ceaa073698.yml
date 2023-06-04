@@ -1,0 +1,27 @@
+_id: req_6a0e7f7c62d94c5ea1a8d8ceaa073698
+type: Request
+parentId: fld_b6da368086a94a8ebbcff95b69c00ffd
+modified: 1685905552964
+created: 1685905552964
+url: "{{url}}/dashboard/template/delete"
+name: Delete Template
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: id
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685905552964
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

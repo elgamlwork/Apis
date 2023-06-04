@@ -1,0 +1,37 @@
+_id: req_b3847ba2892944ecb0521c95d575712c
+type: Request
+parentId: fld_254e2558b89f47c4a6cb0e298ff9d481
+modified: 1685905552932
+created: 1685905552932
+url: "{{url}}/dashboard/employees"
+name: add Employee
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: nameEn
+      disabled: false
+      value: ""
+    - type: text
+      name: nameAr
+      disabled: false
+      value: ""
+    - type: text
+      name: email
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552932
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

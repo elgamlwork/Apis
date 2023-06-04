@@ -1,0 +1,29 @@
+_id: req_83ac7d500aad461baac8a0deff50563d
+type: Request
+parentId: fld_254e2558b89f47c4a6cb0e298ff9d481
+modified: 1685905552936
+created: 1685905552936
+url: "{{url}}/dashboard/employees/import"
+name: import Employees
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: file
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552936
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

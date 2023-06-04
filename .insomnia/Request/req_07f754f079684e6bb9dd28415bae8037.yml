@@ -1,0 +1,23 @@
+_id: req_07f754f079684e6bb9dd28415bae8037
+type: Request
+parentId: fld_3eb5b8ddd3824b5eba8bef7dc0ed3822
+modified: 1685905552910
+created: 1685905552910
+url: "{{url}}/checkDashboard"
+name: Check Dashboard
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552910
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

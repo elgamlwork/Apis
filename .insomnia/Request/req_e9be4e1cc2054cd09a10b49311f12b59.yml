@@ -1,0 +1,23 @@
+_id: req_e9be4e1cc2054cd09a10b49311f12b59
+type: Request
+parentId: fld_3eb5b8ddd3824b5eba8bef7dc0ed3822
+modified: 1685905552909
+created: 1685905552909
+url: "{{url}}/check"
+name: Check
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552909
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

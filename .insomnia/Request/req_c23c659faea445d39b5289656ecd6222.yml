@@ -1,0 +1,29 @@
+_id: req_c23c659faea445d39b5289656ecd6222
+type: Request
+parentId: fld_254e2558b89f47c4a6cb0e298ff9d481
+modified: 1685905552935
+created: 1685905552935
+url: "{{url}}/dashboard/employees/delete"
+name: delete Employee
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: id
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552935
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

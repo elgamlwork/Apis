@@ -1,0 +1,23 @@
+_id: req_a7eae12d81d04afd9b97e3eb6ebcf272
+type: Request
+parentId: fld_254e2558b89f47c4a6cb0e298ff9d481
+modified: 1685905552929
+created: 1685905552929
+url: "{{url}}/dashboard/employees"
+name: all Employees
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552929
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

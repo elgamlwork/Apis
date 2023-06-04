@@ -1,0 +1,29 @@
+_id: req_0c33068a08ed4265b5500b35bcf9924f
+type: Request
+parentId: fld_3eb5b8ddd3824b5eba8bef7dc0ed3822
+modified: 1685905552913
+created: 1685905552913
+url: "{{url}}/login"
+name: login
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: email
+      disabled: false
+      value: hello@layouti.com
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552913
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

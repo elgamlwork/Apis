@@ -1,0 +1,41 @@
+_id: req_8b9d2ba72b0a45e1ae0952bb20faa31f
+type: Request
+parentId: fld_254e2558b89f47c4a6cb0e298ff9d481
+modified: 1685905552934
+created: 1685905552934
+url: "{{url}}/dashboard/employees/update"
+name: update Employee
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: id
+      disabled: false
+      value: ""
+    - type: text
+      name: nameEn
+      disabled: false
+      value: ""
+    - type: text
+      name: nameAr
+      disabled: false
+      value: ""
+    - type: text
+      name: email
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552934
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_37949b12bd7c492d887e67aefb99cfd6
+type: Request
+parentId: fld_4c16dfb743f743efaf34fad38449d92f
+modified: 1685905552943
+created: 1685905552943
+url: "{{url}}/dashboard/fonts/delete"
+name: delete Font
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: id
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552943
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

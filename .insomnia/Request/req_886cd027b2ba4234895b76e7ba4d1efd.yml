@@ -1,0 +1,23 @@
+_id: req_886cd027b2ba4234895b76e7ba4d1efd
+type: Request
+parentId: fld_06e1225146fe4c569a53a18ebdf9339d
+modified: 1685905552924
+created: 1685905552924
+url: "{{url}}/dashboard/configurations/admin"
+name: all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552924
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

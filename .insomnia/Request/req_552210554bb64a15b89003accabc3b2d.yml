@@ -1,0 +1,41 @@
+_id: req_552210554bb64a15b89003accabc3b2d
+type: Request
+parentId: fld_06e1225146fe4c569a53a18ebdf9339d
+modified: 1685905552926
+created: 1685905552926
+url: "{{url}}/dashboard/configurations/admin"
+name: edit
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: id
+      disabled: false
+      value: ""
+    - type: text
+      name: nameEn
+      disabled: false
+      value: ""
+    - type: text
+      name: nameAr
+      disabled: false
+      value: ""
+    - type: text
+      name: email
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552926
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,37 @@
+_id: req_2a69f783d9fb4cb080ae7c3a0e23f8bc
+type: Request
+parentId: fld_3eb5b8ddd3824b5eba8bef7dc0ed3822
+modified: 1685905552915
+created: 1685905552915
+url: "{{url}}/setup"
+name: setup
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: nameEn
+      disabled: false
+      value: ""
+    - type: text
+      name: nameAr
+      disabled: false
+      value: ""
+    - type: text
+      name: email
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552915
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

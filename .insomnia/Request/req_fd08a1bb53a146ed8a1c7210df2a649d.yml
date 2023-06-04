@@ -1,0 +1,53 @@
+_id: req_fd08a1bb53a146ed8a1c7210df2a649d
+type: Request
+parentId: fld_dc8ccaff7748480485742822667e08d2
+modified: 1685905552907
+created: 1685905552907
+url: "{{url}}/dashboardSetting"
+name: Dashboard Setting
+description: ""
+method: POST
+body:
+  params:
+    - type: text
+      name: darkIcon
+      disabled: false
+      value: ""
+    - type: text
+      name: lightIcon
+      disabled: false
+      value: ""
+    - type: text
+      name: favIcon
+      disabled: false
+      value: ""
+    - type: text
+      name: buttonColor
+      disabled: false
+      value: ""
+    - type: text
+      name: buttonTextColor
+      disabled: false
+      value: ""
+    - type: text
+      name: sideBarTextColor
+      disabled: false
+      value: ""
+    - type: text
+      name: sideBarColor
+      disabled: false
+      value: ""
+  mimeType: multipart/form-data
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552907
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

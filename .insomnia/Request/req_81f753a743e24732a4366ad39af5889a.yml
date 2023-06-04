@@ -1,0 +1,23 @@
+_id: req_81f753a743e24732a4366ad39af5889a
+type: Request
+parentId: fld_dc8ccaff7748480485742822667e08d2
+modified: 1685905552905
+created: 1685905552905
+url: "{{url}}/dashboardSetting"
+name: Dashboard Setting
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: language
+    value: ar
+authentication: {}
+metaSortKey: -1685905552905
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
